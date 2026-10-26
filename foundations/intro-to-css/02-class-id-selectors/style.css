@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+/*second element*/
+#two{
+    color:rgb(00 00 255 / 1);
+    font-size: 36px;
+}
+/*third element*/
+.three{
+    font-size: 24px;
+}
+/*fourth element*/
+.four{
+    background-color: rgba(75, 255, 132, 0.5)  ;
+    font-size: 24px;
+    font-weight: bold;
+}
+/*odd numbered elements*/
+.one,.three,.five{
+    background-color: rgba(211, 5, 70, 0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
