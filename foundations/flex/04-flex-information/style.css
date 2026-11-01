@@ -24,3 +24,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*=========> SOLUTION <=============*/
+
+.title{
+  display:flex;
+}
+
+.container{
+  display:flex;
+  justify-content: center;
+  margin-top: 32px;
+  gap:52px;
+}
+.info{
+  width: 200px;
+  text-align: center;
+}
